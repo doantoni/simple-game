@@ -1,0 +1,8 @@
+@keyframes moveObstacle {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-150vw);
+  }
+}
